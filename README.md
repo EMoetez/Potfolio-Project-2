@@ -1,6 +1,6 @@
 # Nashville Housing Data Processing
 
-This project involves processing and cleaning a dataset of Nashville housing records. The dataset includes information about property sales, addresses, and owner details. The project demonstrates various SQL operations to standardize, clean, and transform the data.
+This project involves processing and cleaning a dataset of Nashville housing records. The dataset includes information about property sales, addresses, and owner details. The project demonstrates various SQL operations to standardize, clean, and transform the data. For this project I used Microsoft Excel to explore the dataset, then executed the queries on the SQL Server Management Studio.
 
 ## Project Overview
 
